@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32930.78
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxtShredding", "TxtShredding\TxtShredding.csproj", "{210DD867-CC54-4467-B7A1-D5604EC779D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210DD867-CC54-4467-B7A1-D5604EC779D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210DD867-CC54-4467-B7A1-D5604EC779D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210DD867-CC54-4467-B7A1-D5604EC779D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210DD867-CC54-4467-B7A1-D5604EC779D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F64CB8-FF9B-478C-97B4-DBF6A6F134B2}
+	EndGlobalSection
+EndGlobal

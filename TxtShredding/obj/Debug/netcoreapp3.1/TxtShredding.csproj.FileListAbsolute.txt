@@ -1,0 +1,17 @@
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\bin\Debug\netcoreapp3.1\TxtShredding.exe
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\bin\Debug\netcoreapp3.1\TxtShredding.deps.json
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\bin\Debug\netcoreapp3.1\TxtShredding.runtimeconfig.json
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\bin\Debug\netcoreapp3.1\TxtShredding.runtimeconfig.dev.json
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\bin\Debug\netcoreapp3.1\TxtShredding.dll
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\bin\Debug\netcoreapp3.1\TxtShredding.pdb
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.Properties.Resources.resources
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.TxtShredding.resources
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.csproj.GenerateResource.cache
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.AssemblyInfoInputs.cache
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.AssemblyInfo.cs
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.dll
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.pdb
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.genruntimeconfig.cache
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\source\repos\TxtShredding\TxtShredding\obj\Debug\netcoreapp3.1\TxtShredding.csproj.AssemblyReference.cache
